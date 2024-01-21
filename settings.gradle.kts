@@ -1,1 +1,1 @@
-rootProject.name = "exam"
+rootProject.name = "clean-architecture"

@@ -1,10 +1,10 @@
-package com.cleanarchitecture.exam
+package com.cleanarchitecture
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class ExamApplicationTests {
+class CleanArchitectureApplicationTests {
 
 	@Test
 	fun contextLoads() {
